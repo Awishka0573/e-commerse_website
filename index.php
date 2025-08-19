@@ -36,12 +36,12 @@
                         </li>
                         <li class="nav-item">
                             <a class="nav-link" href="#"><i class="fa fa-shopping-cart"><sup>1</sup></i>
-</a>
+                            </a>
                         </li>
                         <li class="nav-item">
                             <a class="nav-link" href="#">Total Price</a>
                         </li>
-    </ul>
+                    </ul>
                     <form class="d-flex" role="search">
                         <input class="form-control me-2" type="search" placeholder="Search" aria-label="Search" />
                         <button class="btn btn-outline-light" type="submit">Search</button>
@@ -49,6 +49,72 @@
                 </div>
             </div>
         </nav>
+        <!-- second child -->
+        <nav class="navbar navbar-expand-lg navbar-dark bg-secondary">
+            <ul class="navbar-nav me-auto">
+                <li class="nav-item">
+                    <a class="nav-link" href="#">Welcome Guest</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="#">Login</a>
+                </li>
+            </ul>
+        </nav>
+        <!-- Third child -->
+        <div class="bg-light">
+            <h3 class="text-center">Hidden Store</h3>
+            <p class="text-center">Communication is the heart of e-commerce and community</p>
+        </div>
+
+        <!-- fourth child -->
+
+        <div class="row">
+            <div class="col-md-10">
+                <!-- Product -->
+                <div class="row">
+                    <div class="col-md-4 mb-2">
+                        <div class="card" >
+                            <img src="../e-commerse_website/images/apple.jpg" class="card-img-top" alt="...">
+                            <div class="card-body">
+                                <h5 class="card-title">Card title</h5>
+                                <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card’s content.</p>
+                                <a href="#" class="btn btn-primary">Go somewhere</a>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-md-4">
+                        <div class="card" >
+                            <img src="../e-commerse_website/images/orange.jpg" class="card-img-top" alt="...">
+                            <div class="card-body">
+                                <h5 class="card-title">Card title</h5>
+                                <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card’s content.</p>
+                                <a href="#" class="btn btn-primary">Go somewhere</a>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-md-4">
+                        <div class="card" >
+                            <img src="../e-commerse_website/images/papple.jpg" class="card-img-top" alt="...">
+                            <div class="card-body">
+                                <h5 class="card-title">Card title</h5>
+                                <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card’s content.</p>
+                                <a href="#" class="btn btn-primary">Go somewhere</a>
+                            </div>
+                        </div>
+                    </div>
+
+                </div>
+            </div>
+            <div class="col-md-2">
+                <!-- sidenav -->
+                <h1>hey</h1>
+
+            </div>
+        </div>
+
+        <!-- <div class="bg-info p-3 text-center">
+            <p>All right reserved @r Designed by Awishka_Isuru_2025</p>
+        </div> -->
     </div>
 
 
